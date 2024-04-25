@@ -31,13 +31,13 @@ hs_err_pid*
 target/
 
 # Java build files
-java/
+bin/
 
 # Node modules for .js files
-js/
+node_modules/
 
 # CSS, HTML, and JS distribution files
-frontend/
+dist/
 
 # OS generated files
 .DS_Store
